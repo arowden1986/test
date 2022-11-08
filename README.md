@@ -1,2 +1,2 @@
 # test
-Testing go-git
+Testing go-git.
