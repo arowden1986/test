@@ -1,1 +1,1 @@
-test_remote2
+test_new_local
