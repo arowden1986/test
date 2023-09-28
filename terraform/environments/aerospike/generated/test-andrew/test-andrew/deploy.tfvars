@@ -1,1 +1,1 @@
-test_remote1
+test_remote2
